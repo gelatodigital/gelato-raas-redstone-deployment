@@ -1,6 +1,6 @@
 # RedStone with Chainlink adapter deployments on Gelato Raas 
 
-This repo showcases how to deploy the RedStone Price Feed Adapters and Price Feeds in order to be compatble to the Chainlink Adapter Interface 
+This repo showcases how to deploy the RedStone Price Feed Adapters and Price Feeds in order to be compatible with the Chainlink Adapter Interface 
 
 
 Deployment flow:
